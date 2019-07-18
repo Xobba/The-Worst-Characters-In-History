@@ -93,7 +93,7 @@ a:hover {
 }
 
 .post {
-  box-shadow: 10px 10px 5px grey;
+box-shadow: 10px 10px 5px grey;
  max-width: 800px;
  margin: 0 auto;
  padding: 20px 0;
@@ -165,4 +165,7 @@ span {
     padding: #px;
     font-size: #px;
     border: none;
+}
+
+#list{
 }
